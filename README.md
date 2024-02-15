@@ -31,7 +31,20 @@ The first element corresponds to the arousal level inferred by the model (`low`,
 ## Citation
 If you use the code from this repository, you are kindly asked to cite the following paper.
 
-**[TBD]**
+> A. Mallol-Ragolta and B. Schuller, “Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager,” *IEEE Access*, vol. 12, pp. 20654–20662, February 2024.
+
+```
+@article{Mallol-Ragolta24-CSA,
+    author={Adria Mallol-Ragolta and Björn Schuller},
+    title={{Coupling Sentiment and Arousal Analysis Towards an Affective Dialogue Manager}},
+    journal={IEEE Access},
+    volume = {12},
+    publisher = {IEEE},
+    year={2024},
+    month = {February},
+    pages = {20654--20662},
+}
+```
 
 ## License
 The code and the model weights are released under the MIT License.
